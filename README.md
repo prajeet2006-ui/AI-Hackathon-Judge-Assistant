@@ -43,5 +43,6 @@ python app.py  # or the name of your Python file
    Open your web browser and navigate to the local URL provided in the terminal (e.g.,    http://127.0.0.1:7860).
 3. **Upload and analyze:**
    - Enter the project description in the text box
+   - 
 
    
