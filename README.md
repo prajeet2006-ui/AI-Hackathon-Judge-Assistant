@@ -18,3 +18,30 @@ This project is an AI-powered assistant designed to help hackathon judges evalua
    ```bash
    git clone [https://github.com/your-username/AI-Hackathon-Judge-Assistant.git](https://github.com/your-username/AI-Hackathon-Judge-Assistant.git)
    cd AI-Hackathon-Judge-Assistant
+2. **Install the required libraries:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+Note: You will need to create a requirements.txt file with the following contents:
+   ```bash
+   gradio
+   google-generativeai
+   PyMuPDF
+   Pillow
+```
+3. **Configure your API key:**
+   Add your Google Gemini API key to the code. Replace the placeholder value in main.py (or your    main script file) with your actual key:
+   ```bash
+   genai.configure(api_key="YOUR_API_KEY_HERE")
+   ```
+## Usage
+1. **Run the application:**
+```bash
+python app.py  # or the name of your Python file
+```
+2. **Access the interface:**
+   Open your web browser and navigate to the local URL provided in the terminal (e.g.,    http://127.0.0.1:7860).
+3. **Upload and analyze:**
+   - **Enter the project description in the text box
+
+   
