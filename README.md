@@ -28,7 +28,7 @@ Note: You will need to create a requirements.txt file with the following content
    google-generativeai
    PyMuPDF
    Pillow
-```
+   ```
 3. **Configure your API key:**
    Add your Google Gemini API key to the code. Replace the placeholder value in main.py (or your    main script file) with your actual key:
    ```bash
@@ -36,9 +36,9 @@ Note: You will need to create a requirements.txt file with the following content
    ```
 ## Usage
 1. **Run the application:**
-```bash
-python app.py  # or the name of your Python file
-```
+   ```bash
+   python app.py  # or the name of your Python file
+   ```
 2. **Access the interface:**
    Open your web browser and navigate to the local URL provided in the terminal (e.g.,    http://127.0.0.1:7860).
 3. **Upload and analyze:**
