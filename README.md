@@ -16,8 +16,9 @@ This project is an AI-powered assistant designed to help hackathon judges evalua
 ## Setup and Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/AI-Hackathon-Judge-Assistant.git](https://github.com/your-username/AI-Hackathon-Judge-Assistant.git)
+   git clone https://github.com/prajeetnithi/AI-Hackathon-Judge-Assistant.git
    cd AI-Hackathon-Judge-Assistant
+   ```
 2. **Install the required libraries:**
    ```bash
    pip install -r requirements.txt
